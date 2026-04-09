@@ -1,3 +1,3 @@
-# Computer Vision For counting and Tracking Insects
+# Smart Insect Trap: For counting and tracking insects
 1. Hardware
-2. Detection/Counting
+2. Detection/Counting: ID-Net
